@@ -1,0 +1,192 @@
+2024-08-14 11:01:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\Selenium_project\master.xml
+
+2024-08-14 11:06:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\Selenium_project\master.xml
+
+2024-08-14 11:06:43 INFO  TC_005_Searching:17 - Started_TC05
+2024-08-14 11:07:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\Selenium_project\master.xml
+
+2024-08-14 11:07:31 INFO  TC_005_Searching:17 - Started_TC05
+2024-08-14 12:07:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\Selenium_project\master.xml
+
+2024-08-14 12:10:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\Selenium_project\master.xml
+
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\AppData\Local\Temp\testng-eclipse-1787627371\testng-customsuite.xml
+
+2024-08-14 12:11:56 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2024-08-14 12:11:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2d0566ba: 19 ms
+2024-08-14 12:11:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@622ef26a: 45 ms
+2024-08-14 12:11:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@3fc08eec: 10 ms
+2024-08-14 12:11:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@e362c57: 8 ms
+2024-08-14 12:11:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@492fc69e: 5 ms
+2024-08-14 12:11:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@159e366: 5 ms
+2024-08-14 12:11:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@57dc9128: 0 ms
+2024-08-14 12:12:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\Selenium_project\master.xml
+
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\AppData\Local\Temp\testng-eclipse-1862714703\testng-customsuite.xml
+
+2024-08-14 12:12:49 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2024-08-14 12:12:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2d0566ba: 16 ms
+2024-08-14 12:12:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@622ef26a: 39 ms
+2024-08-14 12:12:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@3fc08eec: 7 ms
+2024-08-14 12:12:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@e362c57: 8 ms
+2024-08-14 12:12:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@492fc69e: 5 ms
+2024-08-14 12:12:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@159e366: 5 ms
+2024-08-14 12:12:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@57dc9128: 0 ms
+2024-08-14 12:12:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\Selenium_project\master.xml
+
+2024-08-14 12:14:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\Selenium_project\master.xml
+
+2024-08-14 13:05:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\Selenium_project2\master.xml
+
+2024-08-14 13:05:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\Selenium_project2\master.xml
+
+2024-08-14 13:19:11 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\pract\master.xml
+
+2024-08-14 13:19:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\pract\master.xml
+
+2024-08-14 13:20:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\pract\master.xml
+
+2024-08-14 16:48:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\pract\master.xml
+
+2024-08-14 16:48:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\pract\master.xml
+
+2024-08-14 16:52:46 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\pract\master.xml
+
+2024-08-14 16:53:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\pract\master.xml
+
+2024-08-14 16:54:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\pract\master.xml
+
+2024-08-14 17:11:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\pract\master.xml
+
+2024-08-14 17:12:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\pract\master.xml
+
+2024-08-14 17:14:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\pract\master.xml
+
+2024-08-14 17:14:46 INFO  testCase1_Register_User:14 - TC01 Started
+2024-08-14 17:14:46 INFO  testCase1_Register_User:24 - verified home page
+2024-08-14 17:14:47 INFO  testCase1_Register_User:34 - verified user signup
+2024-08-14 17:14:49 INFO  testCase1_Register_User:46 - verified account information page displayed
+2024-08-14 17:15:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\pract\master.xml
+
+2024-08-14 17:16:07 INFO  testCase1_Register_User:14 - TC01 Started
+2024-08-14 17:16:07 INFO  testCase1_Register_User:24 - verified home page
+2024-08-14 17:16:08 INFO  testCase1_Register_User:34 - verified user signup
+2024-08-14 17:16:09 INFO  testCase1_Register_User:46 - verified account information page displayed
+2024-08-14 17:16:11 INFO  testCase1_Register_User:65 - all details entered
+2024-08-14 17:18:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\pract\master.xml
+
+2024-08-14 17:18:36 INFO  testCase1_Register_User:14 - TC01 Started
+2024-08-14 17:18:37 INFO  testCase1_Register_User:24 - verified home page
+2024-08-14 17:18:38 INFO  testCase1_Register_User:34 - verified user signup
+2024-08-14 17:18:39 INFO  testCase1_Register_User:46 - verified account information page displayed
+2024-08-14 17:18:41 INFO  testCase1_Register_User:65 - all details entered
+2024-08-14 17:20:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\pract\master.xml
+
+2024-08-14 17:20:44 INFO  testCase1_Register_User:14 - TC01 Started
+2024-08-14 17:20:44 INFO  testCase1_Register_User:24 - verified home page
+2024-08-14 17:20:45 INFO  testCase1_Register_User:34 - verified user signup
+2024-08-14 17:20:47 INFO  testCase1_Register_User:46 - verified account information page displayed
+2024-08-14 17:20:49 INFO  testCase1_Register_User:65 - all details entered
+2024-08-14 17:21:34 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\pract\master.xml
+
+2024-08-14 17:21:38 INFO  testCase1_Register_User:14 - TC01 Started
+2024-08-14 17:21:38 INFO  testCase1_Register_User:24 - verified home page
+2024-08-14 17:21:39 INFO  testCase1_Register_User:34 - verified user signup
+2024-08-14 17:21:40 INFO  testCase1_Register_User:46 - verified account information page displayed
+2024-08-14 17:21:42 INFO  testCase1_Register_User:65 - all details entered
+2024-08-14 17:22:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\BALAJI\new_workspace\pract\master.xml
+
+2024-08-14 17:22:13 INFO  testCase1_Register_User:14 - TC01 Started
+2024-08-14 17:22:13 INFO  testCase1_Register_User:24 - verified home page
+2024-08-14 17:22:14 INFO  testCase1_Register_User:34 - verified user signup
+2024-08-14 17:22:16 INFO  testCase1_Register_User:46 - verified account information page displayed
+2024-08-14 17:22:18 INFO  testCase1_Register_User:65 - all details entered
+2024-08-14 17:22:18 INFO  testCase1_Register_User:81 - verified account creation
